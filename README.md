@@ -1,2 +1,32 @@
-# portfolio
-My personal portfolio website showcasing projects and skills
+# 🌐 Personal Portfolio
+
+This is my personal portfolio website showcasing my projects, skills, and experience as a Frontend Developer.
+
+## 🚀 Features
+
+* Responsive design
+* Clean and modern UI
+* Project showcase with descriptions
+* Contact and social links
+
+## 🛠 Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+## 📂 Projects Included
+
+* Doctor Appointment System
+* AI Career Assistant
+* Meditrack Cloud
+* n8n Workflows
+
+## 🔗 Live Website
+
+(Will be added after deployment)
+
+## 📬 Contact
+
+* GitHub: https://github.com/TANIYADHIMAN008
+* LinkedIn: https://www.linkedin.com/
